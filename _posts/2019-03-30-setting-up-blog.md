@@ -20,15 +20,15 @@ have 31 tabs open.
 I just closed all the tabs and went back to Julia's post before things got
 overwhelming. I really like reading her blog because it's as if she's actually
 saying the things to me. I probably hang out with her in my head more than I do
-irl haha! 
+in real life haha! 
 
 Anyway, so the most useful information I found was going through the Jekyll site
 [Quickstart][jekyll-quick-start], [Installation][jekyll-ruby-installation], and
 the [arch wiki page on Ruby][archwiki-ruby]. The blog post had some information
-that was out of date, notebly running `rbenv rehash`. It's now deprecated
+that was out of date, notably running `rbenv rehash`. It's now deprecated
 because the behaviour is now included in rbenv core.
 
-Another helpful ressource was [this article][linux-path] that just goes over
+Another helpful resource was [this article][linux-path] that just goes over
 some basics about what the $PATH is in Linux. There is so much I don't know
 still!
 
@@ -45,7 +45,7 @@ question:
 **What have I learned here?**
 
 What is a Ruby Gem? Well, it can be confusing because there is RubyGems, which
-is a package manager for distibuting Ruby programs and librairies. And then
+is a package manager for distributing Ruby programs and libraries. And then
 there are Gems which are packages that contain the information of the files to
 install. I'm spewing this out but I think I'm still confused, mostly about how
 it works. But that's okay, I'll probably have to go over this in the future.
@@ -55,7 +55,7 @@ to tell your application "Use this version of Ruby".
 
 What is octopress? It's a Ruby Gem for writing a deploying Jekyll blogs.
 
-I also learned that some information on blog post may no longer be relevant, so
+I also learned that some information on blogs may no longer be relevant, so
 always check the documentation.
 
 Also: look for documentation specific to your OS! I keep forgetting to do this!

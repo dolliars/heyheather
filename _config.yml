@@ -1,0 +1,28 @@
+# Blog settings
+permalink: /blog/:title
+
+# Site settings
+title: Hey Heather, it's me again.
+email: heyheather.itsmeagain@gmail.com
+description:
+  Becoming a better programmer through words to Heather.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dolliars.github.io/" # the base hostname & protocol for your site
+twitter_username: heyheatheritsme
+github_username:  dolliars
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

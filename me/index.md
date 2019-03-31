@@ -4,7 +4,7 @@ layout: about
 
 Hi, I'm me and this is where I write to my friend Heather about things. In a
 perfect world, it would only be about programming things. But I digress.
-Hopefully not to much.
+Hopefully not too much.
 
 # Whyy?
 I'm a person who wants to be a become a better programmer. And how will I

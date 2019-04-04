@@ -13,8 +13,8 @@ documentation][google-overview] from Google and everything seems pretty clear.
 It sounds like an extension is basically a miniature website. We'll see if that
 mental model holds up. The next step is to go through [Google's
 tutorial][google-tutorial] which is what I'm planning to do this week. Another
-resource I found helpful at explaining Chrome Extensions at 1:07 in the morning
-and you're not actually reading what you are reading was [this
+resource I found helpful at explaining Chrome Extensions when it's 1:07 in the
+morning and you're not _actually_ reading what you're reading was [this
 video][video-overview]. Why am I still awake.
 
 [google-overview]: https://developer.chrome.com/extensions/overview

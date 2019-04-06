@@ -124,11 +124,15 @@ ul {
 	}
 	&__content {
 		padding-top: 40px;
-		h1 {
+		h1,
+		h2 {
 			font-size: 1.25em;
 			font-weight: 700;
 			margin-top: 30px;
 			margin-bottom: 5px;
+		}
+		h2 {
+			margin-bottom: 15px;
 		}
 		p {
 			font-size: 1em;
@@ -182,13 +186,16 @@ ul {
 			border-radius: 3px;
 			background: $color-grey;
 		}
+		div.highlight {
+			overflow: auto;
+		}
 		.highlight {
 			margin: 10px;
 			margin-bottom: 15px;
 			padding: 10px;
-			line-height: 1.5;
+			line-height: 1.25;
 			border-radius: 3px;
-			background: $color-black;
+			background: $color-bg-code;
 			code {
 				color: $color-code;
 				background: none;

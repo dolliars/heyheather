@@ -3,7 +3,7 @@ layout: post
 title:  "Setting up a blog with Julia's instructions!"
 date:   2019-03-30 11:49:42 -0400
 eof: -30-
-categories: jekyll update
+categories: blogging
 ---
 Hey Heather, it's me!
 
@@ -42,7 +42,7 @@ Reading that is super reassuring. This is a hard thing. And it's okay that it
 takes time to understand. Yay for learning hard things! And this begs the
 question: 
 
-**What have I learned here?**
+## What have I learned here?
 
 What is a Ruby Gem? Well, it can be confusing because there is RubyGems, which
 is a package manager for distributing Ruby programs and libraries. And then

@@ -3,7 +3,7 @@ layout: post
 title:  "Chrome Extension - What's the plan?"
 date:   2019-03-31 02:21:42 -0400
 eof: -EOT-
-categories: jekyll update
+categories: chrome extension
 ---
 Hey Heather, it's me again!
 
@@ -18,5 +18,5 @@ morning and you're not _actually_ reading what you're reading was [this
 video][video-overview]. Why am I still awake.
 
 [google-overview]: https://developer.chrome.com/extensions/overview
-[google-tutorial]: https://developer.chrome.com/extensions/getstarteda
+[google-tutorial]: https://developer.chrome.com/extensions/getstarted
 [video-overview]: https://www.youtube.com/watch?v=uh84Asy2W4s

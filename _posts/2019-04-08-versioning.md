@@ -15,8 +15,8 @@ be extended to other pages with article lists, and ideally the user should be
 able to edit speed of reading in words/minute.
 
 Well first of all, what even is a Chrome extension?? How do they work? Who is
-it's daddy, and what does he do? Well the [Google documentation][google-doc] is
-pretty clear, it's first section is titled "What are extensions?" and like I had
+its daddy, and what does he do? Well the [Google documentation][google-doc] is
+pretty clear, its first section is titled "What are extensions?" and like I had
 mentioned they just sound like tiny websites that [do one
 thing][google-single-purpose]. This is very much like the [Unix
 philosophy][wiki-unix-philo] of "building simple, short, clear, modular, and

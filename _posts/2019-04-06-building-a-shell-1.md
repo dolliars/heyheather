@@ -35,13 +35,13 @@ simple and logical. Of course things should be modular! Of course they should do
 one thing well! Isn't this how everyone thinks? Of course you think of other
 developers who will work with your code in the future. But maybe we sometimes
 forget and then complacency sets in. I'll try to veer away from that. I can and
-should always try and do better. Okay so let's close these tabs now.
+should always try to do better. Okay so let's close these tabs now.
 
 ## So the workshop
 
 In the workshop I started out writing the [stage 1][gh-stage1] in C but that was
 a mistake. This is because in the second step, we need to split the line that
-was input. Although C doesn't have .split(). It does have `\*strtok`, which
+was input. Although C doesn't have .split(). It does have `*strtok`, which
 would break a string into a series of tokens using a delimiter and would return
 a pointer to the first token found. And this is when I remembered that I
 actually don't know C because I haven't used pointers. Beyond knowing that it's
@@ -77,14 +77,14 @@ previously, read the line, print it, exit if `nread` returns less than 0. Do
 this forever. I'm not sure I understand what `nread` is doing. Let's look at
 that for a second. 
 
-Initially we set `nread` to be of type `ssize\_t`. This type is used to
+Initially we set `nread` to be of type `ssize_t`. This type is used to
 represent the size of an allocated block of memory. That variable then takes the
 output of `getline`. Looking at the man page for `getline` it says that it
 "reads an entire line from stream and stores the address of the buffer
 containing the text into the line pointer". So basically we're just filling what
 was "empty", which here was `line` and `len`, with the standard input and it's
 returning the number of characters read. If it fails it'll return -1 and this is
-why we needed to set the type of nread to `ssize\_t` because it need to be
+why we needed to set the type of nread to `ssize_t` because it need to be
 signed typed, which means it can represent -1.
 
 It's amazing to me how much information is packed into just a few lines of code.
@@ -100,8 +100,8 @@ while True:
 ```
 
 As you can see there is work to be done. For the first stage of the workshop,
-it's just to get something basic working. Here is what the simplest shell look
-like:
+it's just to get something basic working. Here is what the simplest shell should
+look like:
 
 ```
 loop
@@ -115,8 +115,8 @@ loop
 	waitpid(pid)
 ```
 
-There is more work to be done. I think it's pretty neat. You'll probably see
-more posts regarding this project. And now, to work on a Chrome extension!
+I think it's pretty neat. You'll probably see more posts regarding this project.
+And now, to work on a Chrome extension!
 
 
 [gh-build-shell]: https://github.com/tokenrove/build-your-own-shell
@@ -126,3 +126,4 @@ more posts regarding this project. And now, to work on a Chrome extension!
 [wiki-shell]: https://en.wikipedia.org/wiki/Shell_(computing)
 [wiki-dennis]: https://en.wikipedia.org/wiki/Dennis_Ritchie
 [wiki-ken]: https://en.wikipedia.org/wiki/Ken_Thompson
+[gh-stage1]: https://github.com/tokenrove/build-your-own-shell/blob/master/stage_1.md

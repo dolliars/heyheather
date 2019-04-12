@@ -87,7 +87,7 @@ general environment. It also looks like information that everyone just kind of
 knows, so it's easy to see how someone can just go along with it and increase
 numbers without understanding what it's supposed to communicate. 
 
-## Wait this was about the Chrome Extension
+## Wait, this was about the Chrome Extension
 
 Indeed it was! SO! Coming back to the Chrome Extension. What does it mean for us
 here? Google has [documentation][google-version] that specifies a few rule and

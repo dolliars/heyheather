@@ -3,11 +3,12 @@ permalink: /blog/:title
 
 # Site settings
 title: Hey Heather, it's me again.
+author: dsl
 email: heyheather.itsmeagain@gmail.com
 description:
   Becoming a better programmer through words to Heather.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dolliars.github.io/" # the base hostname & protocol for your site
+url: "https://www.heyheatheritsmeagain.com" # the base hostname & protocol for your site
 twitter_username: heyheatheritsme
 github_username:  dolliars
 
@@ -26,3 +27,6 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
+plugins:
+  - jekyll-feed

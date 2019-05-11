@@ -73,7 +73,7 @@ dmesg | grep 'usb' | less
 write fd -> stdout -> stdin -> read fd -> write fd -> stdout -> stdin -> read fd
 ```
 
-The flow of the data is from left to write and goes something like this:
+The flow of the data is from left to right and goes something like this:
 
 1. We make a system call to `dmesg` that writes to the stdout end of the pipe;
 2. the data flows to the stdin end of said pipe into the read fd of `grep`;

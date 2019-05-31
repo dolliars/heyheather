@@ -11,6 +11,6 @@ I want to become a better programmer. And how will I achieve that? By
 programming more and presenting/explaining the acquired knowledge to someone.
 And who is that someone? That someone is my friend Heather. I will be blogging
 to her about what I've been working on. My plan is to post every Sunday. There.
-It's on the Internet. I can and will be held accountable.
+It's on the Internet. 
 
 Heather, you don't have to read this.

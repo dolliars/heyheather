@@ -1,0 +1,173 @@
+---
+layout: post
+title:  "Illegal characters accepted.. wait. what?"
+date:   2019-10-23 01:28:42 -0400
+---
+
+Hey Heather. It's  me again.
+
+Here's something I learned. I was playing around with a project. After it was..
+ahem "done".. it occurred to me that I should run it through an HTML and CSS
+validator. The W3C has these available [here for CSS][w3c-css] and [here for
+HTML][w3c-html]. This is the error I got for the HTML:
+
+```
+Error: Bad value
+https://fonts.googleapis.com/css?family=Pacifico|Snippet&display=swap for
+attribute href on element link: Illegal character in query: | is not allowed.
+```
+I was confused because the error came from a URL provided by [Google
+fonts][google-fonts]. Questions quickly came up. Was the validator outdated? Was
+Google providing a wrong link? If the pipe character is illegal then why is it
+illegal? Was it illegal before and is now permitted? Are there other illegal
+characters and if so which ones are they? Questions ad nauseam. Researching I
+saw someone on Stack Overflow mention that you had to encode the URL by changing
+the pipe character to its ASCII equivalent, in this case `%7C`. I mean okay but
+why isn't Google proving it from the get go? So I asked them: 
+
+> Is there a reason that the standard embed font link uses a pipe instead of
+> encoding it to %7C when selecting more than one font? I couldn't find the
+> information and it comes up as an error in the w3c html validator.
+
+They replied: 
+
+> It is easier for humans, and browsers will not misinterpret it, but you should
+> url encode the character :)
+
+This just raised more questions. While it did answer Google's reasoning for
+proving it in that format, it didn't explain why I should have to encode it. I
+mean why wouldn't the browser misinterpret it? And if it won't misinterpret it,
+then why should I encode it? Which one is correct? I decided to look into it.
+
+Reading the error messages tells you right away that the problem is with the
+pipe itself. You can figure out pretty quickly that to resolve the issue you
+need to encode it. That's fine but most answers didn't go any further. I did run
+into [this answer][so-answer-1] on Stack Overflow where a user remarked that
+[RFC 1738][rfc-1738] specifies the following characters as being unsafe: {, },
+|, \, ^, ~,[, ], and \`. Now we have a lead. 
+
+## Wait. What's an RFC?
+
+Request For Comments. *Aaannd* that's about all I knew about that. When I first
+heard the term my brain probably filled in the details and just went "yeah this
+is where they request comments, next". Thanks system 1. If you reflect on it a
+bit, it doesn't make sense. Why would we refer to documentation that requests
+comments? Are we still discussing it? Are they asking *moi*? Can anyone
+comment? *Ahhhh!!* More question that I want answers to! And so I went and got
+them. It's actually pretty cool.
+
+RFCs are the Internet Engineering Task Force's (IETF) [standard's
+publications][ietf-rfcs] where they cover "protocols, procedures, programs, and
+concepts, as well as meeting notes, opinions, and sometimes humor". In general
+anything to do with computer networking. There are three ways to get an RFC
+published. The processes kind of differ but I'll spare you some details. The
+gist of it is you write a draft explaining your idea and if there's a group
+that's working on the topic you may ask them to consider your proposal. They can
+reject it, ask for modifications or explanations. If they decide to adopt it
+there may be some revisions required. The working group then sends it to their
+area director who can comment on it. It's then passed along so others can review
+it and comment if they want to. At some point it's also sent to other standards
+development organizations such as the W3C, IEEE, etc., who can look at the
+document and send comments. There are other steps to the process but in general
+it's this feedback loop where the proposal is submitted, reviewed and commented
+on, revised and resubmitted. If you want more details on the process the [IETF
+has a 26 minute video][YT-ietf-rfc] going over it. They actually have a [full
+playlist][YT-ietf-list] on what they do that you can check out. It's pretty
+neat and is now in my list of things to do in my life.
+
+Learning about the process makes the name RFC much more clear. It's basically
+the process which the documentation goes through before being published. And
+since we continue to update them and new RFCs replace previous ones it's always
+in a state where it can be commented on because you can make a proposal to
+change it. No one has to listen to you but you can chime in. 
+
+## RFC 1738
+
+Alright now I now what RFCs is. Next, let's look at [RFC 1738][rfc-1738]. It was
+published in December 1994. Continuing with the questioning, I had wondered if
+it was still valid. Wonder no more because the IETF has a [search
+tool][ietf-datatracker] for looking up RFCs. When you look up RFC 1738, there's
+a **Status** under one of the column. This particular RFC has description that
+says **Obsoleted by** and **Updated by** which lists more RFCs.
+
+```
+Obsoleted by RFC4248, RFC4266
+Updated by RFC1808, RFC2368, RFC2396, RFC3986, RFC6196, RFC6270, RFC8089
+```
+So many open tabs. So little time. Alright, I may have strayed a bit. Let's go
+back to the questions I have:
+
+- What is RFC 1738?
+- Why is a pipe an illegal character and are there others?
+- Why did Google say a browser not misinterpret it?
+- Why should I encode?
+
+Let's go through them one by one.
+
+**What is RFC 1738**: I had the number and now we have a title: Uniform Resource
+Locators (URL). The abstract reads:
+
+> This document specifies a Uniform Resource Locator (URL), the syntax and
+> semantics of formalized information for location and access of resources via
+> the Internet.
+
+In the document we get answers to some of the other questions.
+
+**Why is a pipe an illegal character?** : The character is actually listed as
+being unsafe. The term `illegal` is not found anywhere in RFC 1738. The reason
+the pipe character is unsafe is because [gateways][wiki-gateway] and other
+transport agents (I think they mean hardware like routers) are known to
+sometimes change the characters.
+
+**Are there others?** : Yes. The reasons for them being unsafe can differ
+between characters though so you can read the RFC if you're wondering about a
+specific character. Here's the list of characters deemed unsafe: the space, the
+characters `<` and `>`, the quote mark `"`, the octothorpe `#`, the `%`, `{`,
+`}`, `|`, `\`, `^`, `~`, `[`, `]`, and the backtick \`. The RFC also goes on
+to specify that "all unsafe characters must always be encoded within a URL".
+
+As previously mentioned RFC 1738 was published in 1994 and according to the
+information provided by the IETF search tool it was obsoleted by
+[RFC4248][rfc-4248] and [RFC4266][rfc-4266]. These documents don't mention
+anything regarding the characters. RFC4266 has to do with the [Gopher
+protocol][gopher-protocol] (*!!*) which we don't currently care about because
+HTTP ftw.
+
+In regards to the protocols that update RFC 1738, we can forget about RFCs 2368,
+6196, 6270 and 8089 because they're not relevant to the case before us.And while
+RFCs 1808, 2396 and 3986 may have some information buried within, after
+overviewing them I'm fairly certain that they don't contradict the statement
+that unsafe characters should be encoded in a URL.
+
+Now this leads us to back to Google's response. Let's suppose that the OG RFC
+1738 is still valid in regards to requesting the `|` be encoded. Google fonts is
+not encoding it and says that "the browser won't misinterpret it". I now have
+two questions. First: how does a browser know not to misinterpret this
+character? And second: in the case that a gateway or a transport agent _does_
+change the character, will the browser then misinterpret it?
+
+I guess for now I can leave those questions for another day, but I'm really
+curious in finding out.
+
+I can understand that perhaps browsers are built in a way that assumes we will
+make mistakes. It's undoubtedly correct in that assumption. My qualm here is
+with Google fonts providing a link that should be encoded. Or maybe the RFC
+should be updated. Or maybe that's too complicated because it would involve
+making sure gateways and transport agents don't change unsafe characters. I
+don't have any real answer. I just think that if the character should be encoded
+and that Google fonts is providing these links while also saying they _should_
+be encoded then that's the format they should provide.
+
+[w3c-css]: https://jigsaw.w3.org/css-validator/
+[w3c-html]: https://validator.w3.org/#validate_by_uri
+[so-answer-1]: https://stackoverflow.com/a/22469221
+[google-fonts]: https://fonts.google.com/
+[rfc-1738]: https://www.ietf.org/rfc/rfc1738.txt
+[ietf-rfcs]: https://www.ietf.org/standards/rfcs/
+[YT-ietf-rfc]: https://www.youtube.com/watch?v=j3Toe4P9Pa8
+[YT-ietf-list]: https://www.youtube.com/watch?v=_TlqisFpMGw&list=PLC86T-6ZTP5hXPJ
+[ietf-datatracker]: https://datatracker.ietf.org/
+[wiki-gateway]: https://en.wikipedia.org/wiki/Gateway_(telecommunications)
+[rfc-4248]: https://www.ietf.org/rfc/rfc4248.txt
+[rfc4266]: https://www.ietf.org/rfc/rfc4266.txt
+[gopher-protocol]: https://en.wikipedia.org/wiki/Gopher_(protocol)

@@ -2,7 +2,6 @@
 layout: post
 title:  "Building a shell: recap and dup2()"
 date:   2019-05-22 02:35:42 -0400
-eof: -Such is life-
 categories: [shell, pipes, dup2() ]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: 	Status update&#58; the Kelvin situation
 date:   2019-04-11 01:45:42 -0400
-eof: -Good night, and good luck-
 categories: [random, fixing things]
 ---
 

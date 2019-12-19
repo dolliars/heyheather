@@ -2,7 +2,6 @@
 layout: post
 title:  "Setting up a blog with Julia's instructions!"
 date:   2019-03-30 11:49:42 -0400
-eof: -30-
 categories: blogging
 ---
 Hey Heather, it's me!

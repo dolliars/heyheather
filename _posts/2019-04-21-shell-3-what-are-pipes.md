@@ -2,7 +2,6 @@
 layout: post
 title:  "Building a shell: pipe down!"
 date:   2019-04-23 02:01:42 -0400
-eof: -:wq-
 categories: [shell, pipes]
 ---
 

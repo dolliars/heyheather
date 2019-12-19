@@ -2,7 +2,6 @@
 layout: post
 title:  "Chrome extensions - Versioning"
 date:   2019-04-08 12:56:42 -0400
-eof: -That's all folks!-
 categories: [chrome extension, versioning]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Chrome Extension - What's the plan?"
 date:   2019-03-31 02:21:42 -0400
-eof: -EOT-
 categories: chrome extension
 ---
 Hey Heather, it's me again!

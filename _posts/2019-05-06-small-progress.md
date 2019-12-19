@@ -2,7 +2,6 @@
 layout: post
 title:  "Chrome extension: Small progress"
 date:   2019-05-06 13:21:42 -0400
-eof: -The end-
 categories: [chrome extension]
 ---
 

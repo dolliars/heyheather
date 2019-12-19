@@ -2,7 +2,6 @@
 layout: post
 title:  "Building a shell - fork() in the road"
 date:   2019-04-14 23:14:42 -0400
-eof: -So it goes-
 categories: [shell, fork]
 ---
 

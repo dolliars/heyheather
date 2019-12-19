@@ -2,7 +2,6 @@
 layout: post
 title:  "A list of good podcasts"
 date:   2019-05-30 21:06:42 -0400
-eof: -Thank you for wanting to know more today than you did yesterday-
 categories: [ random, podcasts ]
 ---
 

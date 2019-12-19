@@ -2,7 +2,6 @@
 layout: post
 title:  "Chrome extension: I persist"
 date:   2019-04-29 12:41:42 -0400
-eof: -arrivederci-
 categories: [chrome extension, programming]
 ---
 

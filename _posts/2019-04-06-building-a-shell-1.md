@@ -2,7 +2,6 @@
 layout: post
 title:  "Building a shell - A digression of sorts"
 date:   2019-04-06 17:03:42 -0400
-eof: -EOF-
 categories: shell
 ---
 

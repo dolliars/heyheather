@@ -29,13 +29,13 @@ them one by one?**
 
 **How do I created a new branch and switch to it?**
 
-`git checkout -b bugfix/orsomething`
+`git checkout -b bugfix/ifweonlyhadwetested`
 
 **How do I delete local + remote branch?**
 
-Local: `git branch -d bugfix/orsomething`
+Local: `git branch -d bugfix/ifonlywehadtested`
 
-Remote: `git push origin --delete bugfix/orsometheing`
+Remote: `git push origin --delete bugfix/ifonlywehadtested`
 
 To delete both: do both.
 

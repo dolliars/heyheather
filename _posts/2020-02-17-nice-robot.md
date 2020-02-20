@@ -55,5 +55,5 @@ now, so that's something. Half a year ain't bad.
 [npm-twit]: https://www.npmjs.com/package/twit
 [shiffman-twitterbot]: https://shiffman.net/a2z/twitter-bots/
 [twitter-api-post]: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update
-[wiki-iso8601]: https://en.wikipedia.org/wiki/Ordinal_date
+[wiki-iso8601]: https://en.wikipedia.org/wiki/ISO_8601
 [wiki-ordinal-date]: https://en.wikipedia.org/wiki/Ordinal_date

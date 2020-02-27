@@ -29,7 +29,7 @@ them one by one?**
 
 **How do I created a new branch and switch to it?**
 
-`git checkout -b bugfix/ifweonlyhadwetested`
+`git checkout -b bugfix/ifonlyhadwetested`
 
 **How do I delete local + remote branch?**
 

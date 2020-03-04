@@ -54,8 +54,7 @@ working on it full-time, it's probably less daunting. The fact that you go to
 the shop for a day or two and then come back a week later probably slows the
 cadence. You keep forgetting what you were doing and what the next step is so
 it's like you're working into the void. Had I known then what I know now, I
-probably would've just bought a neck online and added made some adjustments to
-it.
+probably would've just bought a neck online and made some adjustments to it.
 
 ## I have questions on sound
 
@@ -69,11 +68,11 @@ in general, [it has been decided][wiki-A440] that the A above middle C, known as
 A4, has a frequency of 440Hz. For a sound to register as A4 it needs to
 oscillate 440 cycles per second. If we take our instrument and tighten the
 stings until a measuring tool tells us that it's vibrating at 440Hz, then we
-have our A. But then press down on the next fret and you get an A#. Why isn't it
-a B or a C? Or between an A and an A#? By pressing down on the fret, we are
-making the string shorter. It's not obvious to me how this makes it vibrate more
-(a B is ~493.883Hz). It's not the energy with which you pluck the string that
-matters since that would mean you'd have to play every note with the same
+have our A. But then when you press down on the next fret and you get an A#. Why
+isn't it a B or a C? Or between an A and an A#? By pressing down on the fret, we
+are making the string shorter. It's not obvious to me how this makes it vibrate
+more (a B is ~493.883Hz). It's not the energy with which you pluck the string
+that matters since that would mean you'd have to play every note with the same
 energy. Which we don't. I know most western music and instruments' intonation is
 twelve-tone equal temperament which divides the octave into 12 parts on a
 logarithmic scale. But how does this translate on physical parts? Luthiers use

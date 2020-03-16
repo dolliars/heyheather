@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "American pi"
-date:   2020-03-14 19:08:17 -0500
+date:   2020-03-14 18:08:17 -0500
 categories: [ misc, mathematics ]
 ---
 

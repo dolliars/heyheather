@@ -14,9 +14,9 @@ the frame "Given the goal X and the current technologies they have, this
 institution could do Y". You'll probably be able to find counter arguments for
 suggestions I'm making but this is mostly to get the ideas out of my head. Maybe
 some could be useful. Regardless, they probably won't take into account edge
-cases or maybe I'll forget something obvious.  Trying to take everything into
-account would make the ideas too rigid and that wouldn't work. Given the current
-situation, we need to be able to adapt faster.
+cases or maybe I'll forget something obvious. Anyway, trying to take everything
+into account would make the ideas too rigid and you wouldn't be able to apply
+them. Given the current situation, we need to be able to adapt faster.
 
 With all that said, what is the current goal? Keep people away from each other.
 We want to reduce the number of intersection points between people.
@@ -27,19 +27,19 @@ Currently supermarkets and pharmacies are still open to the public. The problem
 with this is that you have a very high number of intersection points between
 people. Imagine an aerial view of a supermarket or pharmacy as a grid. And each
 customer that visits traces a certain path. From entrance, to items and then
-exits passing through a cash register. Maybe some pressed a few tomatoes to
-check ripeness. Maybe you squeeze an avocado or two. Maybe you pick up a can of
-soup and then put it back. How many people have you intersected with? Everyone's
-trail overlaps at some point, whether it's just the entrance and exit. And then
-ask yourself how many people did they intersect with before going to the store?
+exit passing by a register. Maybe some pressed a few tomatoes to check ripeness.
+Maybe you squeeze an avocado or two. Maybe you pick up a can of soup and then
+put it back. How many people have you intersected with? Everyone's trail
+overlaps at some point, whether it's just at the entrance and exit. And then ask
+yourself how many people did they intersect with before going to the store?
 
-Now what could you do? I'd suggest closing the doors, but not the store per se.
+Now what can you do? I'd suggest closing the doors, but not the store per se.
 Before 1916, [grocery store transactions][wiki-grocery] used to be over the
 counter. You would ask the grocer for something and he would get it from the
 inventory. Now if we go back to this model we still have the problem of large
 groups of people assembling in lines. Well in 1876 a patent for something called
 the telephone was awarded to Alexander Graham Bell. We could use this
-technology. Store aren't set up to handle a large influx of calls so we need to
+technology. Stores aren't set up to handle a large influx of calls so we need to
 come up with a way to organize this quickly. Since we won't be able to set up
 new phones systems for this situation the best way I can think of handling this
 would be for employees to use they're own phones. You can't just announce a
@@ -51,7 +51,9 @@ steps I'm proposing:
 
 1. Advertise initial point of contact (IPC) for customers to call letting them
    know that they'll be leaving their name, phone number and postal code, and
-   that someone will call them back.
+   that someone will call them back. (Important to let them know that no credit
+   card or banking information will be asked by phone at any point in time. You
+   don't want fraudsters to take advantage of this situation.)
 2. After designated employees block their phone number from displaying when
    making outgoing calls have them call customers back and take down their
    grocery list and address.
@@ -173,8 +175,10 @@ few thoughts that may be inspiring:
 - Have everyone read a text and then discuss it
 - Everyone prepares something short to read and then you discuss it, or just say
   what you liked about it.
-- Solve a Project Euler or Advent of Code problem and then discuss it with others
+- Solve or attempt to solve a Project Euler or Advent of Code problem and then
+  discuss it with others
 - Have everyone go and buy the same wine or same beer and have a remote tasting
+- Have everyone follow a YouTube tutorial and then show the results
 - You can probably do a board game remotely, Pandemic seems apropos
 - ...
 
@@ -195,12 +199,12 @@ Ventilators. I'm worried about a shortage in ventilators. In this case, I'm not
 sure how health services would deal with a shortage. If they don't have enough
 [machines][wiki-medical-ventilators], will they use a [bag valve
 mask][wiki-bag-valve-mask] ? The answer to this should be yes. If they retort
-"We don't have medical staff", to that I say that's not good enough. If a family
-member of mine needs a ventilator and the only thing available is a bag valve
-mask, you best believe I'm learning how to use one and manually pumping air into
-their lungs. I wouldn't ask a medical professional to do this because of course
-they'll need to tend to others. But if manually pumping air for a time is
-required then I can do that. No one wants it to come to this, but if our
+"We don't have enough medical staff", to that I say that's not good enough. If a
+family member of mine needs a ventilator and the only thing available is a bag
+valve mask, you best believe I'm learning how to use one and manually pumping
+air into their lungs. I wouldn't ask a medical professional to do this because
+of course they'll need to tend to others. But if manually pumping air for a time
+is required then I can do that. No one wants it to come to this, but if our
 resources are limited, then we have to think this way. What if you can't get an
 extra machine? If we know what the problem is and the proper and convenient
 machines are not available, what then? If a bag valve mask is available I can

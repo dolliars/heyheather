@@ -179,7 +179,7 @@ few thoughts that may be inspiring:
   discuss it with others
 - Have everyone go and buy the same wine or same beer and have a remote tasting
 - Have everyone follow a YouTube tutorial and then show the results
-- You can probably do a board game remotely, Pandemic seems apropos
+- You can probably do a board game remotely, Pandemic seems appropriate
 - ...
 
 If you have a large group video chat, maybe plan to go around to everyone. I've

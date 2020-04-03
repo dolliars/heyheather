@@ -22,7 +22,7 @@ the bill says :
 While the bill doesn't directly say that π should be changed, his proof does
 implicitly indicate it. You can read the [text of the bill here][text-bill-246].
 In section 2 it says that "the ratio of the diameter and circumference is as
-five-fourths to four" so 4 ÷ 5/4, which is 3.2. After passing in the House of
+five-fourths to four" so 4 ÷ (5/4), which is 3.2. After passing in the House of
 Representatives, the bill was mocked and rejected by the Senate. Apparently the
 Senate made bad puns and mocked it for half an hour. I searched a bit and
 couldn't find if any of the mocking had been transcribed somewhere.

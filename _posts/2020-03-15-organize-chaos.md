@@ -2,7 +2,7 @@
 layout: post
 title:  "Organizing chaos"
 date:   2020-03-15 19:08:17 -0500
-categories: [misc, organizing]
+categories: [misc, organizing, quarantine]
 ---
 
 Hey Heather, it's me again.

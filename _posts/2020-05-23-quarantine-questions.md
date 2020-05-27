@@ -25,6 +25,8 @@ are a few:
 - Sidewalks should've been expanded a while ago tbh
 - Am I now more likely to get sick with a cold because I haven't been out in
   over a month?
+- Why haven't we moved to using the expression physical distancing instead of
+  social distancing? I think it's semantically more appropriate.
 - Are malls still going to be a thing? (_they're so weird_)
 - Do you sometimes worry about random people you don't actually know? I hope the
   strawberry vendors are okay.

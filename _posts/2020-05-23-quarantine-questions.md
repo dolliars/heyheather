@@ -28,5 +28,8 @@ are a few:
 - Why haven't we moved to using the expression physical distancing instead of
   social distancing? I think it's semantically more appropriate.
 - Are malls still going to be a thing? (_they're so weird_)
+- What is Halloween going to look like?
+- Who do I talk to about having spotify dot com list albums chronologically? At
+  least give me the option, I say.
 - Do you sometimes worry about random people you don't actually know? I hope the
   strawberry vendors are okay.

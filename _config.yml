@@ -5,8 +5,7 @@ permalink: /blog/:title
 title: Hey Heather, it's me again.
 author: dsl
 email: heyheather.itsmeagain@gmail.com
-description:
-  Becoming a better programmer through words to Heather.
+description: Becoming a better programmer through words to Heather.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.heyheatheritsmeagain.com"
 twitter_username: dol_liars

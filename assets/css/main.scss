@@ -230,6 +230,30 @@ span.date {
       border-bottom: 1px dashed $color-black;
     }
   }
+  .post__navigation {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    .post__prev-url {
+      margin-right: 10px;
+      .post__prev {
+        display: block;
+        margin-bottom: 15px;
+      }
+    }
+    .post__next-url {
+      margin-left: 10px;
+      text-align: right;
+      .post__next {
+        display: block;
+        margin-bottom: 15px;
+      }
+    }
+  }
+  .post__return {
+    text-align: center;
+    margin-top: 2em;
+  }
 }
 
 .about {

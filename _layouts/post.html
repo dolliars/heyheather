@@ -10,21 +10,17 @@ layout: default
     <p class="post__meta">{{ tags_content }}</p>
   </nav>
   <main class="post__content">
-    {{ content }}
-    {% if page.eof %}
+    {{- content }}
+    {%- if page.eof -%}
     <p class="post__EOF">{{ page.eof }}</p>
-    {% endif %}
+    {%- endif -%}
     <div class="post__navigation">
-      {% if page.previous.url %}
-      <a class="post__prev-url" href="{{page.previous.url}}">
-        <span class="post__prev">&laquo; Prev:</span>
-        {{page.previous.title}}</a>
-      {% endif %}
-      {% if page.next.url %}
-      <a class="post__next-url" href="{{page.next.url}}">
-        <span class="post__next">Next &raquo;</span>
-        {{page.next.title}}</a>
-      {% endif %}
+      {%- if page.previous.url %}
+      <a class="post__prev-url" href="{{page.previous.url}}"><span class="post__prev">&laquo; Prev:</span>{{page.previous.title}}</a>
+      {%- endif %}
+      {%- if page.next.url %}
+      <a class="post__next-url" href="{{page.next.url}}"><span class="post__next">Next &raquo;</span>{{page.next.title}}</a>
+      {%- endif %}
     </div>
     <div class="post__return">
       <a class="post__back" href="/">home</a>

@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<header class="header">
-  <h1>{{ site.title }}</h1>
-  <nav class="nav" role="navigation">
-    <ul class="nav__list">
-      {%- for item in site.data.navigation %}
-      <li class="nav__item"><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {%- endfor %}
-    </ul>
-  </nav>
-  <button class="header__toggle" id="dark-mode-toggle" title="Switch theme dark/light">
-    <i class="header__icon">toggle</i>
-  </button>
-</header>
 <main class="blog" role="main">
   <h1>Blog Posts:</h1>
   <ul>

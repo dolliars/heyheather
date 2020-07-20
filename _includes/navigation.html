@@ -1,0 +1,16 @@
+<nav class="nav" role="navigation">
+  <ul class="nav__list">
+    {%- for item in site.data.navigation %}
+    <li class="nav__item"><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {%- endfor %}
+  </ul>
+</nav>
+
+{%- if page.title %}
+<div class="post">
+  <div class="post_details">
+    <h1 class="post__title">{{ page.title }}</h1>
+    <p class="post__date">{{ page.date | date: '%B %-d, %Y' }}</p>
+    <a class="post__back" href="/">&lt;-- home</a>
+  </div>
+{% endif -%}

@@ -20,6 +20,10 @@
 
 <body>
   <div class="wrapper">
+    <header class="header">
+      <h1 class="header__site-title">{{ site.title }}</h1>
+      {% include navigation.html %}
+    </header>
     {{ content }}
   </div>
   <script src="/assets/js/darkmode.js"></script>

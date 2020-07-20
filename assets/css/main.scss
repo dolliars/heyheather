@@ -4,9 +4,28 @@
 @import "reset";
 @import "config";
 
+:root {
+  --clr-light: #f2f3f4;
+  --clr-dark: #212f3d;
+  --clr-green: #117864;
+  --clr-yellow: #f1c40f;
+
+/*light color scheme*/
+  --background: var(--clr-light);
+  --foreground: var(--clr-dark);
+  --secondary: var(--clr-green);
+}
+
+/*dark color scheme*/
+.darkmode {
+  --background: var(--clr-dark);
+  --foreground: var(--clr-light);
+  --secondary: var(--clr-yellow);
+}
+
 body {
-  color: $color-black;
-  background: $color-white;
+  color: var(--foreground);
+  background: var(--background);
   font-family: 'Inconsolata';
   font-size: 100%;
   font-weight: 400;
@@ -19,18 +38,18 @@ p {
   line-height: 150%;
 }
 a {
-  color: $color-link;
+  color: var(--secondary);
   text-decoration: none;
   &:visited {
-    color: $color-link;
+    color: var(--secondary);
     text-decoration: none;
   }
   &:hover {
-    color: $color-link;
+    color: var(--secondary);
     text-decoration: underline;
   }
   &:active {
-    color: $color-link;
+    color: var(--secondary);
     text-decoration: none;
   }
 }
@@ -62,7 +81,7 @@ span.date {
   &::after {
     content: "";
     display: block;
-    border-bottom: 2px solid $color-link;
+    border-bottom: 2px solid var(--secondary);
     transform: scaleX(0);
     transition: transform .35s ease-in-out;
     transform-origin: 100% 50%;
@@ -112,7 +131,7 @@ span.date {
     &::after {
       content: "";
       display: block;
-      border-bottom: 2px solid $color-link;
+      border-bottom: 2px solid var(--secondary);
       transform: scaleX(0);
       transition: transform .35s ease-in-out;
       transform-origin: 100% 50%;
@@ -217,7 +236,8 @@ span.date {
       padding: 3px;
       font-size: 0.9em;
       border-radius: 3px;
-      background: $color-grey;
+      color: var(--background);
+      background: var(--foreground);
     }
     div.highlight {
       overflow: auto;
@@ -237,7 +257,7 @@ span.date {
     .codebreak {
       margin: 15px;
       border: 0;
-      border-bottom: 1px dashed $color-black;
+      border-bottom: 1px dashed var(--background);
     }
   }
   .post__navigation {

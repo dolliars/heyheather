@@ -3,6 +3,12 @@
     {%- for item in site.data.navigation %}
     <li class="nav__item"><a href="{{ item.url }}">{{ item.title }}</a></li>
     {%- endfor %}
+    <li class="nav__item">
+      <label class="toggle-control" id="dark-mode-toggle" title="Switch theme dark/light">
+        <input type="checkbox" checked="checked">
+        <span class="control"></span>
+      </label>
+    </li>
   </ul>
 </nav>
 

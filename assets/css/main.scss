@@ -9,11 +9,14 @@
   --clr-dark: #212f3d;
   --clr-green: #117864;
   --clr-yellow: #f1c40f;
+  --clr-purple-light: #d7bde2;
+  --clr-purple: #9b59b6;
 
 /*light color scheme*/
   --background: var(--clr-light);
   --foreground: var(--clr-dark);
   --secondary: var(--clr-green);
+  --accent: var(--clr-purple);
 }
 
 /*dark color scheme*/
@@ -21,6 +24,7 @@
   --background: var(--clr-dark);
   --foreground: var(--clr-light);
   --secondary: var(--clr-yellow);
+  --accent: var(--clr-purple-light);
 }
 
 body {
@@ -44,7 +48,7 @@ a {
   color: var(--secondary);
   text-decoration: none;
   &:visited {
-    color: var(--secondary);
+    color: var(--accent);
     text-decoration: none;
   }
   &:hover {

@@ -7,15 +7,15 @@
 :root {
   --clr-light: #f2f3f4;
   --clr-dark: #212f3d;
-  --clr-green: #117864;
-  --clr-yellow: #f1c40f;
-  --clr-purple-light: #d7bde2;
-  --clr-purple: #8e44ad;
+  --clr-blue: #046b99;
+  --clr-purple: #7b0fa9;
+  --clr-blue-green: #7fffd4;
+  --clr-purple-light: #f6d8ff;
 
 /*light color scheme*/
   --background: var(--clr-light);
   --foreground: var(--clr-dark);
-  --secondary: var(--clr-green);
+  --secondary: var(--clr-blue);
   --accent: var(--clr-purple);
 }
 
@@ -23,7 +23,7 @@
 .darkmode {
   --background: var(--clr-dark);
   --foreground: var(--clr-light);
-  --secondary: var(--clr-yellow);
+  --secondary: var(--clr-blue-green);
   --accent: var(--clr-purple-light);
 }
 
@@ -118,6 +118,10 @@ span.date {
   &__site-title {
     font-size: 2em;
     margin-bottom: 0.75em;
+
+    a {
+      color: var(--foreground);
+    }
 
     @media screen and (max-width: $br) {
       font-size: 1.5em;

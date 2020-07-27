@@ -4,9 +4,9 @@
     <li class="nav__item"><a href="{{ item.url }}">{{ item.title }}</a></li>
     {%- endfor %}
     <li class="nav__item">
-      <label class="toggle-control" id="dark-mode-toggle" title="Switch theme dark/light">
-        <input type="checkbox" checked="checked">
-      </label>
+      <div class="toggle-control" id="dark-mode-toggle" title="toggle theme dark/light">
+        <input type="button" class="toggle" aria-label="toggle theme dark/light">
+      </div>
     </li>
   </ul>
 </nav>

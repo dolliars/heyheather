@@ -177,14 +177,22 @@ span.date {
     margin-bottom: 1.1em;
   }
   &__title {
-    font-size: 1.6em;
+    font-size: 1.5em;
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 0.5em;
+    text-align: center;
   }
+
+  &__top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
   &__date {
     font-size: 1.1em;
-    margin-bottom: 0.75em;
+    text-align: right;
   }
   &__EOF {
     text-align: center;

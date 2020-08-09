@@ -37,7 +37,7 @@ body {
 }
 
 h1 {
-  margin-bottom: 5px;
+  margin-bottom: 0.75em;
   font-weight: 700;
 }
 
@@ -94,6 +94,10 @@ span.date {
     transition: transform .35s ease-in-out;
     transform-origin: 100% 50%;
   }
+}
+
+hr {
+  margin-bottom: 1.25em;
 }
 
 .blog-list-item > a:hover {
@@ -180,13 +184,13 @@ span.date {
     font-size: 1.5em;
     font-weight: 700;
     margin-top: 20px;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
     text-align: center;
   }
 
   &__top {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     align-items: center;
   }
 
@@ -209,7 +213,6 @@ span.date {
       margin-bottom: 15px;
     }
     p {
-      font-size: 1em;
       line-height: 150%;
       margin-bottom: 1.2em;
     }
@@ -322,7 +325,7 @@ span.date {
 
   &__return {
     text-align: center;
-    margin-top: 2em;
+    margin: 2em 0 1.5em 0;
   }
 }
 

@@ -44,7 +44,7 @@ deceivingly close to being finished. But it's not. Not if you're making the neck
 yourself. In regards to the body though, you'll still need to drill the holes
 for hardware and add some type of finish to it.
 
-## The Neck
+## The neck
 
 The neck is so much more complicated to make than I had thought. You've got the
 [truss rod][wiki-truss-rod], the fret board, the [frets][wiki-guitar-frets], the

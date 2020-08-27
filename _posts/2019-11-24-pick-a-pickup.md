@@ -8,7 +8,7 @@ categories: [misc, guitar, pickups]
 Hey Heather, it's me again.
 
 I'm just about finished with my guitar build. I put a lot of time in the shop
-during the summer and now that the lacquer finish has set I'm about the
+during the summer and now that the lacquer finish has set I'm about to
 [solder][solder] the pickups. I don't really remember choosing the pickups
 though. I may have rushed through that decision. I just remember the part where
 I messed up the body using a router that went rogue on me. Anyway, I've added
@@ -21,7 +21,7 @@ information.
 ## First of all, sound.
 
 The more I think about it, the more [sound][wiki-sound] is a fascinating and
-weird phenomenon.  You have this physical vibrating event that happens which
+weird phenomenon. You have this physical vibrating event that happens which
 causes air molecules to move and push adjacent air molecules back and forth
 until it reaches your eardrum. At that point bodily mechanisms take over
 receiving the vibration and transforming it to a signal that the brain will
@@ -33,7 +33,7 @@ understand sound but let's just keep it at that for the moment.
 Now [a pickup][wiki-pickup] is a device that transforms energy from one form to
 another. A broader term for a device like this is [a
 transducer][wiki-transducer]. In the case of an electric guitar, it'll take the
-vibrations produced by a moving string and converts them into an electrical
+vibrations produced by a moving string and will convert them into an electrical
 signal which is then amplified. Most of the time electric guitars will have
 magnetic pickups which are wrapped in copper wire. They create a magnetic field
 that magnetizes the guitar strings which are composed of some type of
@@ -48,18 +48,19 @@ guitar sounds.
 
 Now the question to ask yourself is what type of sound you want. Mostly I've
 seen the answers separated into two categories: bright or warm sound. In terms
-of pickups **bright** is associated with [single-coil pickups][wiki-single-coil]
-and **warm** with [dual-coil or humbucker pickups][wiki-humbucker] although
-there's no hard line drawn. When I answered the question of choosing either
-bright or warm my default answer was to go with warm. This for no other reason
-than "I prefer the feelings associated with the word". This was unclear to me
-until I looked into what the words represented in terms of actual sound but by
-then I had already chosen my pickups. It's still good to know so searching a bit
-I found [this video][YT-pickup-comparison] which does a side-by-side comparison.
-Besides the sound, the other impact your choice of pickups will have is whether
-the body will be routed with a narrow or wide space for the intended pickup.
-There are ways to adapt for whatever cavity you make so in the future you can
-still change your mind. Though it'll just make switching a bit more complicated.
+of pickups, **bright** is associated with [single-coil
+pickups][wiki-single-coil], and **warm** with [dual-coil or humbucker
+pickups][wiki-humbucker] although there's no hard line drawn. When I answered
+the question of choosing either bright or warm my default answer was to go with
+warm. This for no other reason than "I prefer the feelings associated with the
+word". This was unclear to me until I looked into what the words represented in
+terms of actual sound but by then I had already chosen my pickups. It's still
+good to know so searching a bit I found [this video][YT-pickup-comparison] which
+does a side-by-side comparison. Besides the sound, the other impact your choice
+of pickups will have is whether the body will be routed with a narrow or wide
+space for the intended pickup. There are ways to adapt for whatever cavity you
+make so in the future you can still change your mind. Though it'll just make
+switching a bit more complicated.
 
 [solder]: https://english.stackexchange.com/questions/19990/what-is-the-correct-pronunciation-of-the-word-solder
 [wiki-sound]: https://en.wikipedia.org/wiki/Sound

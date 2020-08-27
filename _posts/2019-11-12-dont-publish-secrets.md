@@ -24,8 +24,8 @@ filter-branch` that let's you remove a file in your entire history.
 
 Basically, this post's objective was to document that 1) `git` is great, and 2)
 `git` has a way to remove a file from every commit with `git filter-branch`.
-Because who hasn't committed allPasswords.txt to a project they want make open
-source. Anyway, I still need to try it out to see how it works.
+Because who hasn't committed allPasswords.txt to a project they want to make
+open source. Anyway, I still need to try it out to see how it works.
 
 I did end up regenerating a new access token which I added to a configuration
 file. And that file was added to .gitignore. I'd still like to know if there's a

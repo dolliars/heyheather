@@ -23,7 +23,7 @@ will be about the body: the material and the style. Since I decided to build one
 on a whim I took the wood that was available when I went to the workshop. It so
 happened to be poplar, which specifically I think was [yellow
 poplar][wiki-liriodendron], which is different from just [poplar][wiki-populus].
-Tree taxonomy is confusing. Had I done research before hand I'd probably have
+Tree taxonomy is confusing. Had I done research beforehand I'd probably have
 chosen a lighter wood and would've checked how different woods affect the sound.
 I did learn that it's good to check the characteristics of wood for a given
 project. Some can be difficult to work with and it can make every other step
@@ -62,7 +62,7 @@ Here's the actual interesting part I still have questions about. So I wrote
 about pickups before and how they're basically a transducer that converts the
 vibrations of the string into electrical signals that are amplified. Let's say
 we understand that part. Well my question is why is an A, an A? And how is it
-that if you play the next fret it's a semi-tone up to an A#? And then it's a B,
+that if you play the next fret it's a semitone up to an A#? And then it's a B,
 and so on. How does this work? It's all ratios, right? This is what I think. So
 in general, [it has been decided][wiki-A440] that the A above middle C, known as
 A4, has a frequency of 440Hz. For a sound to register as A4 it needs to

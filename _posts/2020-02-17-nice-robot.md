@@ -42,7 +42,7 @@ decided to add the day number (also known as the [ordinal
 date][wiki-ordinal-date]) excluding the year. This means that January 1st is Day
 1, February 1st is Day 32, and so on and so forth. It worked well. The bot is
 out there in the world waiting for tomorrow to quietly tweet away its question
-to anyway who will happen to come across it.
+to anyone who will happen to come across it.
 
 Soon however, it'll be silenced. My main objective for the project was to force
 me to finally finish a project, to finish *something*. I got to see how AWS EC2

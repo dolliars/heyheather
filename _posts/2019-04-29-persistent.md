@@ -58,7 +58,7 @@ miss that? Derp. Moving on.
 
 Okay, so basically what this means is "persistent" should always be false unless
 you are acting on one of the possible status of HTTP requests. I wonder what
-proportion of extensions use `"persistant": true`? If it's generally set to
+proportion of extensions use `"persistent": true`? If it's generally set to
 `false`, would it make sense to have that set as default and just require it to
 be specified when `true`? At this point, I don't think Google would change it. I
 think it would be considered a MAJOR change for the version. Unless it's

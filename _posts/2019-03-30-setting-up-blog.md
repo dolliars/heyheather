@@ -52,7 +52,7 @@ it works. But that's okay, I'll probably have to go over this in the future.
 What does it mean to set up a Ruby environment? It just means setting up a way
 to tell your application "Use this version of Ruby".
 
-What is octopress? It's a Ruby Gem for writing a deploying Jekyll blogs.
+What is octopress? It's a Ruby Gem for writing and deploying Jekyll blogs.
 
 I also learned that some information on blogs may no longer be relevant, so
 always check the documentation.

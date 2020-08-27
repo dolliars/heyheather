@@ -89,14 +89,14 @@ numbers without understanding what it's supposed to communicate.
 ## Wait, this was about the Chrome Extension
 
 Indeed it was! SO! Coming back to the Chrome Extension. What does it mean for us
-here? Google has [documentation][google-version] that specifies a few rule and
-mentions that they have an autoupdate in place. The first version of the Chrome
-extension that will be published will be `version 1.0`. If I make any updates
-then I'll adjust accordingly. If I had been developing the extension in a
-collaborative manner then I could've started with `0.1.0`. I can still use this
-to plan each step I'm going through. The first being just getting through the
-tutorial. And anything to do with what I specifically want to build will start
-at `0.2.0`. We'll see how progress goes.
+here? Google has [documentation][google-version] that specifies a few rules and
+mentions that they have an `autoupdate` in place. The first version of the
+Chrome extension that will be published will be `version 1.0`. If I make any
+updates then I'll adjust accordingly. If I had been developing the extension in
+a collaborative manner then I could've started with `0.1.0`. I can still use
+this to plan each step I'm going through. The first being just getting through
+the tutorial. And anything to do with what I specifically want to build will
+start at `0.2.0`. We'll see how progress goes.
 
 ## In conclusion
 

@@ -18,7 +18,7 @@ and just say that this sentence serves that purpose.
 
 ## Questions and Answers
 
-**How do I add all the files changed so that they are commited instead of adding
+**How do I add all the files changed so that they are committed instead of adding
 them one by one?**
 
 `git add . `
@@ -27,7 +27,7 @@ them one by one?**
 
 `git branch`
 
-**How do I created a new branch and switch to it?**
+**How do I create a new branch and switch to it?**
 
 `git checkout -b bugfix/ifonlyhadwetested`
 

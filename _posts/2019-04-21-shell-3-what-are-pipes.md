@@ -31,10 +31,10 @@ function creates a pipe, which is an object allowing bidirectional data flow
 Now that I've emerged from the rabbit hole (*thanks pomodoro timer!*), I
 acquiesce that although it's possible to use pipes in a bidirectional manner on
 some systems (not Linux tho), it's best to use them in the conventional way. I
-would've like to know in which circumstances pipes could be used bidirectionally
-but I think this [Stackoverflow answer][SO-pipe-syscall] is enough to quell my
-curiosity. It just states that the [POSIX standard for pipes][man-pipe-posix]
-doesn't specify their directional behavior. Moving on.
+would've liked to know in which circumstances pipes could be used
+bidirectionally but I think this [Stackoverflow answer][SO-pipe-syscall] is
+enough to quell my curiosity. It just states that the [POSIX standard for
+pipes][man-pipe-posix] doesn't specify their directional behavior. Moving on.
 
 ## Wrong model
 When I started looking into pipes, I thought I had a good idea about how they

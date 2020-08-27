@@ -38,13 +38,13 @@ should always try to do better. Okay so let's close these tabs now.
 
 ## So the workshop
 
-In the workshop I started out writing the [stage 1][gh-stage1] in C but that was
-a mistake. This is because in the second step, we need to split the line that
-was input. Although C doesn't have .split(). It does have `*strtok`, which
-would break a string into a series of tokens using a delimiter and would return
-a pointer to the first token found. And this is when I remembered that I
-actually don't know C because I haven't used pointers. Beyond knowing that it's
-a variable that stores the address in memory of another variable, I don't know
+In the workshop I started out writing [stage 1][gh-stage1] in C but that was a
+mistake. This is because in the second step, we need to split the line that was
+input. Although C doesn't have .split(). It does have `*strtok`, which would
+break a string into a series of tokens using a delimiter and would return a
+pointer to the first token found. And this is when I remembered that I actually
+don't know C because I haven't used pointers. Beyond knowing that it's a
+variable that stores the address in memory of another variable, I don't know
 what I'd do with it. I've read that it's used to dynamically allocate memory,
 but since I haven't done it yet it's still very abstract. Even if I did
 understand pointers though, there were other considerations that I wasn't aware
@@ -83,7 +83,7 @@ output of `getline`. Looking at the man page for `getline` it says that it
 containing the text into the line pointer". So basically we're just filling what
 was "empty", which here was `line` and `len`, with the standard input and it's
 returning the number of characters read. If it fails it'll return -1 and this is
-why we needed to set the type of nread to `ssize_t` because it need to be
+why we needed to set the type of nread to `ssize_t` because it needs to be
 signed typed, which means it can represent -1.
 
 It's amazing to me how much information is packed into just a few lines of code.

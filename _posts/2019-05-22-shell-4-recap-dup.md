@@ -11,7 +11,7 @@ As you're probably aware, I'm still working on building a shell. Since I last
 wrote about the workshop, we've had a two week break and two meetings. I've had
 trouble understanding how [dup2][man-dup2] works so I haven't really moved past
 pipes. I'm glad I've been writing about the process though. The blog has served
-as notes that I reference now and again. Recently I tried to explained what I've
+as notes that I reference now and again. Recently I tried to explain what I've
 learned so far and had some trouble expressing it. I'm glad I practiced
 verbalizing it though. So let's recap.
 
@@ -132,8 +132,8 @@ def exec_pipeline(line):
 A few weeks back, while at the workshop, I mentioned to the headmaster that I
 had spent some time trying to understand why the Linux manual mentioned that
 pipes were unidirectional and the FreeBSD manual said bidirectional. I phrased
-it in a way that said "oh I justed wasted time on this useless information". I
-was quickly corrected and told something along the lines of: 
+it in a way that said "oh I just wasted time on this useless information". I was
+quickly corrected and told something along the lines of: 
 
 > Don't say that. You never know when this type of information will be useful
 > and help you find the source of a mysterious bug.

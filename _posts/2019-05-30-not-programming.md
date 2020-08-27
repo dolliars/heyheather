@@ -7,7 +7,7 @@ categories: [ random, podcasts ]
 
 Hey Heather. It's me again.
 
-I haven't been programming. I know. I've been concentrating musical projects.
+I haven't been programming. I know. I've been concentrating on musical projects.
 Not really on those I want to work on though. But this is just a temporary
 state. It should get better soon. Maybe I'll do a few Euler problems for fun.
 Coffee and Euler: a good combination. Anyway, since I don't have any programming

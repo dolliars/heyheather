@@ -35,17 +35,17 @@ version will only be made with Hacker News in mind.
 Well, it's back to the [Overview page][google-overview], but this time I can
 fill in the details I know about my own extension. I started by adding the
 `manifest.json` file where I specify that we're using the chrome.pageAction API.
-Reading the documentation I noticed that there are a few UI consideration that I
-need to be aware of. For instance, since page action extensions are only active
-on the pages specified, the icon can appear grayed out. Pretty sure I'll need to
-provide that. I'm just going to use the icons provided in the tutorial for now.
-I can design my icons later on in the process. Next, I added some permissions
-which will probably change as I build the application. I like that there are
-required permissions and optional permissions. The optional permissions can be
-triggered by events, which is nice if you only need the access for a specific
-task.
+Reading the documentation I noticed that there are a few UI considerations that
+I need to be aware of. For instance, since page action extensions are only
+active on the pages specified, the icon can appear grayed out. Pretty sure I'll
+need to provide that. I'm just going to use the icons provided in the tutorial
+for now.  I can design my icons later on in the process. Next, I added some
+permissions which will probably change as I build the application. I like that
+there are required permissions and optional permissions. The optional
+permissions can be triggered by events, which is nice if you only need the
+access for a specific task.
 
-So I haven't move forward as quickly as I would've like to but this is all I
+So I haven't moved forward as quickly as I would've liked to but this is all I
 have for now. I think the next step is to start working on the background
 script. I feel like saying a bunch of negative things in regards to the current
 status of this project but the important thing is that even though this is

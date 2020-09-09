@@ -9,12 +9,12 @@ Hey Heather. It's me again.
 
 As you probably know, last year I built an electric guitar. The decision to
 start the project was made in haste. I needed a distraction. I thought it'd be a
-small project that would take a weekend or two. It spanned.. oh I don't, about
-11 months. This was with going to the shop maybe once or twice a week for 2-3
-hours at a time and includes one month for curing the lacquer finish and a two
-months hiatus. I was asked about it and mumbled something about sanding (*soo
-much sandiing!*) but there's more to it than that. I thought I should write
-about it.
+small project that would take a weekend or two. It spanned.. oh I don't know,
+about 11 months. This was with going to the shop maybe once or twice a week for
+2-3 hours at a time and includes one month for curing the lacquer finish and a
+two months hiatus. I was asked about it and mumbled something about sanding
+(*soo much sandiing!*) but there's more to it than that. I thought I should
+write about it.
 
 ## The wonderland
 
@@ -67,7 +67,7 @@ and so on. How does this work? It's all ratios, right? This is what I think. So
 in general, [it has been decided][wiki-A440] that the A above middle C, known as
 A4, has a frequency of 440Hz. For a sound to register as A4 it needs to
 oscillate 440 cycles per second. If we take our instrument and tighten the
-stings until a measuring tool tells us that it's vibrating at 440Hz, then we
+strings until a measuring tool tells us that it's vibrating at 440Hz, then we
 have our A. But then when you press down on the next fret and you get an A#. Why
 isn't it a B or a C? Or between an A and an A#? By pressing down on the fret, we
 are making the string shorter. It's not obvious to me how this makes it vibrate

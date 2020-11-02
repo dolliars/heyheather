@@ -19,7 +19,7 @@ A few years ago, I was asking myself a series of existential questions.
 Eventually I decided I was unhappy with my current situation and had to leave my
 job. Coincidentally, a colleague had decided the same a week prior (off by one
 as developer logic dictates). This meant that I witnessed the process my
-colleague went through before hand and let me tell you, I did *not* want to go
+colleague went through beforehand and let me tell you, I did *not* want to go
 through *that*. Let me explain what happened.
 
 So when you work for a large boat institution™, the general process for leaving,
@@ -52,8 +52,8 @@ This was not the support I needed. So this is what I did instead.
 ## How to escape the interview
 
 I reached out to HR by email asking them if it was necessary to have the exit
-interview and if instead we could find another arrangement. No reply. I was
-worried and anxious about it. Then I remembered: 
+interview and if instead we could find another arrangement. No reply. Again
+worried. Then I remembered: 
 
 I am an adult and you can't make me. 
 

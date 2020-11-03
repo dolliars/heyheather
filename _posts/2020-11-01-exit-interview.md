@@ -31,7 +31,7 @@ at least in my experience, is as follows:
 
 This all seemed fine to me until I saw the state my colleague was in after their
 exit interview. Without going into specifics I'll just say that during the
-interview, HR persistently asked [leading questions](wiki-leading-q) so that the
+interview, HR persistently asked [leading questions][wiki-leading-q] so that the
 answers would have it seem like the primary reason for leaving was a personal
 matter and not organizational problems. ...
 

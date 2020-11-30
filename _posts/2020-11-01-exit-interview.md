@@ -52,7 +52,7 @@ This was not the support I needed. So this is what I did instead.
 ## How to escape the interview
 
 I reached out to HR by email asking them if it was necessary to have the exit
-interview and if instead we could find another arrangement. No reply. Again
+interview and if instead we could find another arrangement. No reply. Again,
 worried. Then I remembered: 
 
 I am an adult and you can't make me. 
@@ -75,8 +75,8 @@ probably have some of their interpretation injected into it. Leading questions
 are also less likely to appear in questionnaires. 
 
 I'd also recommend keeping a copy of the questions and answers, as well as
-copies of all your correspondence with HR and management. You can BCC and
-forward emails to your personal inbox so that you have copies if you need to
-refer to them after you've left.
+copies of all your correspondence with HR and management. You can BCC messages
+and forward replies to your personal inbox so that you have copies if you need
+to refer to them after you've left.
 
 [wiki-leading-q]: https://en.wikipedia.org/wiki/Leading_question

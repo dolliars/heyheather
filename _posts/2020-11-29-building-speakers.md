@@ -21,7 +21,7 @@ going through the summer of our discontent, I thought why not take on a project.
 The channel had put up [these two][YT-speakers-1] [videos][YT-speakers-2] on
 making speakers and after watching them, I concluded that building these would
 solve many of the extracurricular problems that come with setting up speakers,
-all whislt causing additional unanticipated problems. Here's a bit more on that.
+all whilst causing additional unanticipated problems. Here's a bit more on that.
 Take heed to the fact that I won't be describing the making "How-to" but you'll
 get a sense of a few things to look out for if you're ever so inclined to make
 your own.
@@ -66,7 +66,7 @@ the floor, and that it shouldn't cost more than the Pioneer Speakers. I gave
 myself some leeway on budget so long as the overage was related to acquiring new
 tools.
 
-With all that rattling around in me brain, I went back to the videos and decide
+With all that rattling around in me brain, I went back to the videos and decided
 that those were indeed the ideal speakers. Sound quality? Check. Compatibility?
 Just get the right amp. Surface area? They float! Price? *Check!!*
 

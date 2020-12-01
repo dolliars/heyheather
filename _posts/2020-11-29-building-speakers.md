@@ -26,7 +26,7 @@ Take heed to the fact that I won't be describing the making "How-to" but you'll
 get a sense of a few things to look out for if you're ever so inclined to make
 your own.
 
-## Decisions<sup>3</sup>
+## Decisions
 
 There's a lot fussy logistics surrounding speakers. Before figuring out the
 equipment, you need to decide things like: where will they live? How high do
@@ -182,8 +182,8 @@ soldering the wires to the audio exciters. If I were to do it again, I would
 puncture the tile from the front. If you do so, any tear out you have will be in
 the back. Reinforcing could've gone a lot smoother. Since I didn't find the
 plastic bushing, I cut up a plastic container and made a tiny tube. I used fast
-setting epoxy to glue it in place but it wasn't exactly the right size and kept
-shifting. It worked out in the end, but the results could be much cleaner.
+setting epoxy to glue it in place but the tube wasn't exactly the right size and
+kept shifting. It worked out in the end, but the results could be much cleaner.
 
 The other difficulty I had was soldering. When I first planned the project, I
 had no idea this was required. And now that I'm remembering this, I'd say it's

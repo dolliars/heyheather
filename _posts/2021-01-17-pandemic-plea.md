@@ -67,7 +67,7 @@ government officials. [So I did. And you can too.][letter]
 months ago. If you had asked me to rank my friends in order of best physical
 shape and general health, one in particular would rank 1st, maybe 2nd place. Yet
 when I spoke to him about two months after he contracted COVID, he still had
-issue with his lungs capacity. He got winded just going up his stairs.
+issue with his lung capacity. He got winded just going up his stairs.
 
 I don't think we're measuring the health impacts well enough. I think it's
 unlikely we'll be able to do that any time soon. We need to be vaccinating like

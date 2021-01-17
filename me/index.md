@@ -7,8 +7,8 @@ Sometimes about programming things. Sometimes about other things. I tend to
 digress.
 
 # Why?
-I want to become a better programmer. I also want to write more to someone other
-than myself. So I've decided to write to my friend Heather. There. It's on the
+I want to become a better programmer. I also want to write to someone other than
+myself. So I've decided to write to my friend Heather. There. It's on the
 Internet. 
 
 Heather, you don't have to read this.

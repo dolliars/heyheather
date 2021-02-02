@@ -201,7 +201,7 @@ my quotient and it looked wrong. So I calculated again. And I bet you can guess
 by how much I was off. This had skewed the position on both the X and Y axis so
 I'm glad I caught it when I did since I had already marked the position.
 
-In conclusion, I now have speakers.
+In conclusion, I now have speakers. Fckn-A.
 
 [YT-speakers-1]: https://www.youtube.com/watch?v=CKIye4RZ-5k
 [YT-speakers-2]: https://www.youtube.com/watch?v=zdkyGDqU7xA

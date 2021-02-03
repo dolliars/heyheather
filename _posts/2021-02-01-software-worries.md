@@ -43,7 +43,7 @@ bad so you can mitigate the problems. If this system doesn't work, we still need
 to be able to get people vaccinated **quickly**. Unfortunately I have no
 oversight in the matter but since we already have a system for vaccination, I
 believe that could serve as a fallback. After that, there's always pen and
-paper.
+paper. Or even better, spreadsheets!
 
 For my part, I've been thinking of where things can go wrong, where I can help,
 and what sacrifices I'm willing to make. I haven't seen issues like what the US

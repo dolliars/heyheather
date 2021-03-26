@@ -73,5 +73,5 @@ I don't think we're measuring the health impacts well enough. I think it's
 unlikely we'll be able to do that any time soon. We need to be vaccinating like
 there's no tomorrow. Because, for some, there won't be.
 
-[letter]: https://www.dolliars.com/
+[letter]: https://www.dolliars.com/letter
 

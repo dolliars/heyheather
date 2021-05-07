@@ -2,7 +2,7 @@
 layout: about
 ---
 
-Hi, it's me! This is a blog where I write to my friend Heather about things.
+Hey, it's me! This is a blog where I write to my friend Heather about things.
 Sometimes about programming things. Sometimes about other things. I tend to
 digress.
 

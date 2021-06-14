@@ -74,6 +74,17 @@ ul {
   }
 }
 
+footer {
+  margin-bottom: 1em;
+}
+.footer__contact {
+  text-align: center;
+}
+
+.footer__text-highlight {
+  font-weight: 700;
+}
+
 .footnote {
   margin-left: 0.15em;
 }
@@ -112,7 +123,7 @@ hr {
 .wrapper {
   max-width: 850px;
   margin: auto;
-  padding: 60px 30px 60px 30px;
+  padding: 60px 30px 30px 30px;
   @media screen and (max-width: $br) {
     padding: 20px;
   }

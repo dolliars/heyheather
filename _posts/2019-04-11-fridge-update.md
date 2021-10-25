@@ -2,7 +2,7 @@
 layout: post
 title: 	Status update&#58; the Kelvin situation
 date:   2019-04-11 01:45:42 -0400
-categories: [random, fixing things]
+categories: [misc, fixing things]
 ---
 
 Hey Heather! It's me AGAIN!

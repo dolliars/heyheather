@@ -5,8 +5,6 @@ date:   2020-03-14 18:08:17 -0500
 categories: [ misc, mathematics ]
 ---
 
-Hey Heather, it's me again.
-
 I saw [this video on Numberphile][YT-indiana-pi] about how the state of Indiana
 tried to redefine [π][wiki-pi] as 3.2 back in 1897. Now if this already sounds
 irrational to you then the next bit will seem bonkers. The man who came up with

@@ -5,8 +5,6 @@ date:   2019-11-12 04:06:42 -0400
 categories: [ git, protip]
 ---
 
-Hey Heather, it's me. Again.
-
 ProTip: don't publish your access tokens to a public repository. I hear it's bad
 practice. It's a pretty simple mistake to make when you're working on a personal
 project. I just thought *let me just put this on github doopti dooo...  ohno*.

@@ -5,8 +5,6 @@ date:   2019-04-06 17:03:42 -0400
 categories: shell
 ---
 
-Hey Heather! It's me again.
-
 I know. This post isn't about the Chrome extension. I'm going to write about
 that too so there should be another post soon. For now, let me tell you about
 this workshop I attended.

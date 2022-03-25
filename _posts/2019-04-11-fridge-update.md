@@ -5,8 +5,6 @@ date:   2019-04-11 01:45:42 -0400
 categories: [misc, fixing things]
 ---
 
-Hey Heather! It's me AGAIN!
-
 I have in fact fixed Kelvin. S-U-C-C-E-S-S, that's the way you spell success!
 It turns out my diagnostic was *corrrect*, the issue was with the compressor
 relay. I ended up picking up a 3-in-1 universal relay from an appliance repair

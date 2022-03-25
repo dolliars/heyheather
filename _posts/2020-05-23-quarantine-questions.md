@@ -5,8 +5,6 @@ date:   2020-05-23 13:08:17 -0500
 categories: [ misc, quarantine ]
 ---
 
-Hey Heather, it's me again.
-
 From time to time, some questions have ephemerally passed through my mind. Here
 are a few:
 

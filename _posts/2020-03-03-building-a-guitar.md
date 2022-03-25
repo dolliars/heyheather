@@ -5,8 +5,6 @@ date:   2020-03-03 03:08:17 -0500
 categories: [ misc, guitar, woodwork]
 ---
 
-Hey Heather. It's me again.
-
 As you probably know, last year I built an electric guitar. The decision to
 start the project was made in haste. I needed a distraction. I thought it'd be a
 small project that would take a weekend or two. It spanned.. oh I don't know,

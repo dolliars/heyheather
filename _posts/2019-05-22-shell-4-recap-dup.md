@@ -5,8 +5,6 @@ date:   2019-05-22 02:35:42 -0400
 categories: [shell, pipes, dup2() ]
 ---
 
-Hey Heather, it's me again.
-
 As you're probably aware, I'm still working on building a shell. Since I last
 wrote about the workshop, we've had a two week break and two meetings. I've had
 trouble understanding how [dup2][man-dup2] works so I haven't really moved past

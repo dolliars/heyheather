@@ -5,8 +5,6 @@ date:   2019-05-06 13:21:42 -0400
 categories: [chrome extension]
 ---
 
-Hey Heather, it's me again.
-
 I finally went over the whole Getting Started tutorial and have the basic
 extension that changes the background color of a web page. Now I've started work
 on the extension I've been wanting to build for the last 2 years. The extension

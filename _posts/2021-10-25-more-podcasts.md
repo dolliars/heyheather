@@ -5,8 +5,6 @@ date:   2021-10-25 00:08:17 -0500
 categories: [ misc, podcasts ]
 ---
 
-Hey Heather, it's me again.
-
 I currently have ~10 blog posts in my drafts pile. I seem to be having trouble
 pushing them out. Some of them have to do with thoughts on specific themes that
 I still need process, while others are haphazard explanations that I jotted down

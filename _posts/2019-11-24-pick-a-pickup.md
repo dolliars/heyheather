@@ -5,8 +5,6 @@ date:   2019-11-24 19:51:42 -0400
 categories: [misc, guitar, pickups]
 ---
 
-Hey Heather, it's me again.
-
 I'm just about finished with my guitar build. I put a lot of time in the shop
 during the summer and now that the lacquer finish has set I'm about to
 [solder][solder] the pickups. I don't really remember choosing the pickups

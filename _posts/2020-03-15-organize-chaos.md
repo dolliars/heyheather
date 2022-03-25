@@ -5,8 +5,6 @@ date:   2020-03-15 19:08:17 -0500
 categories: [misc, organizing, quarantine]
 ---
 
-Hey Heather, it's me again.
-
 I've been thinking a lot about the situation that's going on with COVID-19 and
 have been asking myself a bunch of questions in regards to how we could try to
 mitigate some of the negative impacts. The way I think of these problems is with

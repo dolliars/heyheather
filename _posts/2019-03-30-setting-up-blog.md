@@ -4,7 +4,6 @@ title:  "Setting up a blog with Julia's instructions!"
 date:   2019-03-30 11:49:42 -0400
 categories: blogging
 ---
-Hey Heather, it's me!
 
 I finally set up this blog! Yay! I read through Julia's post [How to set up a
 blog in 5 minutes][julia-blog-post] (which was a total lie by the way, it took

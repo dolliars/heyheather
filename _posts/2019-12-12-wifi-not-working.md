@@ -5,8 +5,6 @@ date:   2019-12-12 12:45:42 -0400
 categories: [ misc, wifi, arch]
 ---
 
-Hey Heather. It's me again.
-
 I accidentally turned off my computer when moving it around and this broke wifi.
 I brought this upon myself really. A few days ago I did a system update and
 didn't reboot. Honestly, I just have a heedless heuristic when it comes to

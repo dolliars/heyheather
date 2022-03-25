@@ -5,8 +5,6 @@ date:   2021-01-17 11:08:17 -0500
 categories: [covid, pandemic]
 ---
 
-Hey Heather, it's me again.
-
 The initial date of this post was January 4th. I didn't completely finish it
 though. The week before that, I almost posted something titled "Things are going
 to get much, much worse before they get better". It began with the sentence: "In

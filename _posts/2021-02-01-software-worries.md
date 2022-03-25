@@ -5,8 +5,6 @@ date:   2021-02-01 22:08:17 -0500
 categories: [pandemic, software]
 ---
 
-Hey Heather, it's me again.
-
 What was that text message I sent you a few weeks ago? Ah, yes.
 
 > (...) I just learned that the government awarded a contract to Deloitte to

@@ -5,8 +5,6 @@ date:   2020-02-17 23:08:17 -0500
 categories: [misc, bot]
 ---
 
-Hey Heather, it's me again.
-
 Back in August, I wrote a [twitter bot][twitter-bot]. What this robot does is it
 asks the question "What did you do today that was kind for someone else?" once
 per day. The context of this is that I was listening to [episode 22][fs-E22] of

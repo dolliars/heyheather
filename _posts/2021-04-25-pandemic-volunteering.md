@@ -5,8 +5,6 @@ date:   2021-04-25 19:08:17 -0500
 categories: [covid, pandemic, software]
 ---
 
-Hey Heather, it's me again.
-
 I've mentioned in passing that since the start of the year I've been helping
 Californians get vaccinated by volunteering with [VaccinateCA][vaccinateCA].
 This past Friday, we launched our national website: [Vaccinate The

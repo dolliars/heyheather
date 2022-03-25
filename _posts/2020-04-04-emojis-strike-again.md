@@ -5,8 +5,6 @@ date:   2020-04-04 03:08:17 -0500
 categories: [dwm, Xorg, fonts, emojis ]
 ---
 
-Hey Heather, it's me again.
-
 I thought you might find the current lepidoptera that I've come across
 interesting. I haven't figured out where its habitat is but I have observed some
 of its behavior. My first observation was that dwm "crashed", and when it did I

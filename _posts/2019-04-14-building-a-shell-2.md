@@ -5,8 +5,6 @@ date:   2019-04-14 23:14:42 -0400
 categories: [shell, fork]
 ---
 
-Hey Heather! IT'S me again.
-
 I went to the second workshop for building my own shell. I'm really enjoying
 being confused haha! I've been over the "Executing a command" section in the
 instructions of [stage 1][gh-stage-1] and I think I only partially understand

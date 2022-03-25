@@ -5,8 +5,6 @@ date:   2019-04-08 12:56:42 -0400
 categories: [chrome extension, versioning]
 ---
 
-Hey Heather, it's me again.
-
 I have a plan to build a Chrome extension from a small project I did a few
 years(!!) ago. The idea is that it'll add the amount of time it takes to read
 an article next to the title or the comments on a Hacker News page. This could

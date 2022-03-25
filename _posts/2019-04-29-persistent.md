@@ -5,8 +5,6 @@ date:   2019-04-29 12:41:42 -0400
 categories: [chrome extension, programming]
 ---
 
-Hey Heather. It's me again!
-
 Alright. I've had a wee bit of time to revisit the Chrome extension, and there's
 just *so much* you can look into at each step. You could also go through it
 pretty quickly but the focus here is to focus. So let's go!

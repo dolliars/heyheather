@@ -5,8 +5,6 @@ date:   2020-11-29 20:08:17 -0500
 categories: [speakers, building stuff]
 ---
 
-Hey Heather, it's me again.
-
 So I built a set of speakers. Out of ceiling panels. 12x48. They hang on my wall
 now. I know. It's kind of amazing that they work as well as they do.
 

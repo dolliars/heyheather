@@ -4,7 +4,6 @@ title:  "Chrome Extension - What's the plan?"
 date:   2019-03-31 02:21:42 -0400
 categories: chrome extension
 ---
-Hey Heather, it's me again!
 
 I'm going to build a Chrome Extension! w00t! The plan is to start small and then
 build upon my work to avoid despair. I went over the [Overview

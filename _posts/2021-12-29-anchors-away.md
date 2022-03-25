@@ -5,8 +5,6 @@ date:   2021-12-29 16:08:17 -0500
 categories: [links, security]
 ---
 
-Hey Heather, it's me again.
-
 _\* I'm going through some old drafts that have been laying around and polluting
 my directory. I'll be reviewing and posting some of them._
 

@@ -5,8 +5,6 @@ date:   2020-11-01 18:08:17 -0500
 categories: [ work, HR]
 ---
 
-Hey Heather, it's me again.
-
 So I've been meaning to write for a while but it's been difficult. For many
 reasons which I won't lament about here. At least not at the moment. That said,
 today I'm writing about exit interviews. You can skip the context and go to [how

@@ -5,8 +5,6 @@ date:   2020-02-16 00:08:17 -0086
 categories: [git]
 ---
 
-Hey Heather, it's me again.
-
 I found some old notes on `git` from when I started using it in a work context
 and had to look up everything, every time. I had written them in a Question &
 Answer format. I think that helped me remember what was what but it's difficult

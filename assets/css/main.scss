@@ -7,16 +7,14 @@
 :root {
   --clr-light: #f2f3f4;
   --clr-dark: #00102a;
-  --clr-blue: #046b99;
-  --clr-purple: #7b0fa9;
   --clr-blue-green: #7fffd4;
-  --clr-purple-light: #f6d8ff;
+  --clr-purple-light: #f3cfff;
 
   --clr-code: #505050;
   --clr-bg-code: #ffffea;
 
   /* font styles */
-  --fs-text: 1.25rem;
+  --fs-text: 1.15rem;
   --fw-bold: 700;
 
   /*dark color scheme*/
@@ -24,6 +22,12 @@
   --foreground: var(--clr-light);
   --secondary: var(--clr-blue-green);
   --accent: var(--clr-purple-light);
+}
+
+@media (min-width: 600px) {
+  :root {
+    --fs-text: 1.3rem;
+  }
 }
 
 body {
@@ -64,7 +68,7 @@ a {
     text-decoration: underline;
   }
 
-  &:active {
+  &:active, &:focus {
     color: var(--secondary);
     text-decoration: none;
   }
@@ -193,13 +197,12 @@ a {
   &__title {
     font-weight: var(--fw-bold);
     margin-top: 1.2em;
-    margin-bottom: 0.75em;
+    margin-bottom: 1em;
     text-align: center;
   }
 
-  &__top {
-    display: flex;
-    justify-content: space-between;
+  &__date {
+    text-align: right;
   }
 
   &__content {

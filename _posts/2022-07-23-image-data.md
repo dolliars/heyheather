@@ -57,12 +57,12 @@ Now I gotta say, I don't use this program _that_ often. I generally have
 Location off, and have adjusted settings to save the least amount of
 information. Even so I know that a lot of sites already have a bunch of
 information on me since they have other ways of knowing where I'm logging in
-from. So if I'm uploading an image something I use often, I won't bother. But if
-I'm uploading a product image on a site where I made a single purchase, I
-usually pass it through ImageMagick.
+from. So if I'm uploading an image on an app I use regularly, I won't bother.
+But if I'm uploading a product image on a site I used once, I usually pass it
+through ImageMagick.
 
-Following are the commands I usually use. One thing to note is that if you use
-the `convert` command, it _WILL_ recompress your image. This doesn't really
+Following are the commands I use most often. One thing to note is that if you
+use the `convert` command, it _WILL_ recompress your image. This doesn't really
 matter to me but it's something to keep in mind depending on your future
 intentions for the image.
 

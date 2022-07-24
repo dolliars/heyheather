@@ -38,10 +38,10 @@ examples) you can also have things like GPSLatitude, GPSLongitude,
 GPSAltitude...
 
 Talk about being specific! If you want to have this information on your images,
-that's fine. But a lot of it is saved by default. Users are generally unaware
-it's even happening. And maybe some people want the convenience of having the
-location tagged when they share an image. But from my point of view this
-behavior should be 'opt-in'.
+that's fine. But a lot of it is saved by default. Users are generally [unaware
+it's even happening][wiki-exif-security]. And maybe some people want the
+convenience of having the location tagged when they share an image. But from my
+point of view this behavior should be 'opt-in'.
 
 So what can we do about it?
 

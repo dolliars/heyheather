@@ -112,6 +112,12 @@ a {
   text-decoration: none;
 }
 
+a.blog-list-link {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .wrapper {
   max-width: 950px;
   margin: auto;

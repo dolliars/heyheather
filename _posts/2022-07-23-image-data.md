@@ -6,10 +6,10 @@ categories: [ images ]
 ---
 
 I don't know about you but I'm wary of _Upload Image_ buttons. I've heard enough
-stories and read a few security articles shared on YackerNews, that I am
+stories and read a few security articles shared on YackerNews that I am
 concerned and have trust issues.
 
-Yet there are some occasions when we want to upload photos. It's nice to share
+Yet there are some occasions when I want to upload photos. It's nice to share
 stuff with friends and get that sweet, sweet dopamine hit when they like it. And
 heck yes I want people to upload photos of their purchases so I can have
 something else than spurious, over-edited marketing images that dissimulate dumb

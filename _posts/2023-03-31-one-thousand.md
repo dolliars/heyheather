@@ -63,9 +63,9 @@ thoughts would be interrupted and I knew what I had to do.
 
 Shout-out to those who get changed more than twice a day. It can't be me. I used
 to be a runner back when I lived near a park. Suiting up was part of the
-motivation. This oddly didn't ever translate to activities. It was always such a
-drag. I don't want to get changed again. So my sleepwear now had the added
-requirement that it needed to be comfortable enough for yoga.
+motivation. This oddly didn't ever translate to other activities. It was always
+such a drag. I don't want to get changed again. So my sleepwear now has the
+added requirement that it needs to be comfortable enough for yoga.
 
 ## Push-ups are a lie
 

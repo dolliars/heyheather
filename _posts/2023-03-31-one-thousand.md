@@ -22,8 +22,7 @@ date actually work? I still don't really know. But I've learned that when the
 status quo is disrupted, you can use it as an opportunity to start. I definitely
 have really bad habits from past disruptions. So why not try for a good one. I
 started the yoga practice on my first day at a new company. I was already going
-to shift my wake up time, so instead of shifting it 30 minutes earlier, I
-shifted it an hour.
+to shift my wake up time by 30 minutes, so instead I shifted it an hour earlier.
 
 ## No breaks
 
@@ -54,18 +53,18 @@ followed by an eye roll and a _ughh, fineee!_ from my inner teenager.
 ## Setting a trap
 
 The decisions I make are useless if I forget them. Years ago, when I had a gym
-membership, I used to schedule training in my calendar. If I only I had
-consulted it. This time, I decided to set a trap. I placed my mat at the
-threshold of my bathroom. This way, the moment I stepped out of my bedroom my
-thoughts would be interrupted and I knew what I had to do.
+membership, I used to schedule training in my calendar. If only I had consulted
+it. This time, I decided to set a trap. I placed my mat at the threshold of my
+bathroom. This way, the moment I stepped out of my bedroom my thoughts would be
+interrupted and I knew what I had to do.
 
 ## No suit for you
 
 Shout-out to those who get changed more than twice a day. It can't be me. I used
-to be a runner back when I lived near a park. Suiting up was part of the
-motivation. This oddly didn't ever translate to other activities. It was always
-such a drag. I don't want to get changed again. So my sleepwear now has the
-added requirement that it needs to be comfortable enough for yoga.
+to be a runner. Suiting up was part of the motivation. This oddly didn't ever
+translate to other activities. It was always such a drag. I don't want to get
+changed again. So my sleepwear now has the added requirement that it needs to be
+comfortable enough for yoga.
 
 ## Push-ups are a lie
 

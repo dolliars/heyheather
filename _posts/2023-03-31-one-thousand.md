@@ -11,18 +11,18 @@ it, it's kind of irritating. What about all the other habits I want to do
 regularly? Why haven't those worked? What gives?
 
 Leading up to the regular practice, I learned about habit building in part from
-the episode [Creatures of Habit][podcast-habits] from Hidden Brain podcast. Here
-are some of the decisions I recall. Maybe writing it out can help me with the
-other habits I want.
+the episode [Creatures of Habit][podcast-habits] by the podcast Hidden Brain.
+Here are some of the decisions I recall. Maybe writing it out can help me with
+the other habits I want.
 
 ## Choosing a start date
 
 Last week you said Monday. Yesterday you said tomorrow. When does choosing a
 date actually work? I still don't really know. But I've learned that when the
 status quo is disrupted, you can use it as an opportunity to start. I definitely
-have really bad habits from past disruptions. So why not try for a good one. I
-started the yoga practice on my first day at a new company. I was already going
-to shift my wake up time by 30 minutes, so instead I shifted it an hour earlier.
+have bad habits from past disruptions, so why not try for a good one. I started
+the yoga practice on my first day at a new company. I was already going to shift
+my wake up time by 30 minutes, so instead I shifted it an hour earlier.
 
 ## No breaks
 
@@ -55,8 +55,8 @@ followed by an eye roll and a _ughh, fineee!_ from my inner teenager.
 The decisions I make are useless if I forget them. Years ago, when I had a gym
 membership, I used to schedule training in my calendar. If only I had consulted
 it. This time, I decided to set a trap. I placed my mat at the threshold of my
-bathroom. This way, the moment I stepped out of my bedroom my thoughts would be
-interrupted and I knew what I had to do.
+bedroom. This way, the moment I stepped out of my room my thoughts would be
+interrupted and I'd be reminded of what I had to do.
 
 ## No suit for you
 

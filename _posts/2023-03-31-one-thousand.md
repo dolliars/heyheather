@@ -18,11 +18,12 @@ the other habits I want.
 ## Choosing a start date
 
 Last week you said Monday. Yesterday you said tomorrow. When does choosing a
-date actually work? I still don't really know. But I've learned that when the
-status quo is disrupted, you can use it as an opportunity to start. I definitely
-have bad habits from past disruptions, so why not try for a good one. I started
-the yoga practice on my first day at a new company. I was already going to shift
-my wake up time by 30 minutes, so instead I shifted it an hour earlier.
+date actually work? I still don't really know. But I've learned that when your
+routine is disrupted by a significant change, that is an opportune moment to
+start a new habit. I definitely have bad habits from past disruptions, so why
+not try for a good one. I started the yoga practice on my first day at a new
+company. I was already going to shift my wake up time by 30 minutes, so instead
+I shifted it an hour earlier.
 
 ## No breaks
 

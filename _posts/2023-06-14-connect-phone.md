@@ -27,8 +27,8 @@ typically high above the ground.
 
 Yeah, that sounds about right.
 
-Maybe I'm exaggerating a bit every. But every time I need to connect my phone,
-it's such a hassle. So this post is me talking to my future self for when I
+Maybe I'm exaggerating a bit. But every time I need to connect my phone, it's
+such a hassle. So this post is me talking to my future self for when I
 inevitably have to do it again.
 
 ## Steps

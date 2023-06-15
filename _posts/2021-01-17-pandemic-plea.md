@@ -57,7 +57,7 @@ information for some pharmaceutical companies I realized that, no, you can't
 just get more vaccines. 
 
 After that, the only thing I could think of doing was to write a letter to
-government officials. [So I did. And you can too.][letter]
+government officials. So I did. And you can too.
 
 <hr>
 
@@ -70,6 +70,4 @@ issue with his lung capacity. He got winded just going up his stairs.
 I don't think we're measuring the health impacts well enough. I think it's
 unlikely we'll be able to do that any time soon. We need to be vaccinating like
 there's no tomorrow. Because, for some, there won't be.
-
-[letter]: https://www.dolliars.com/letter
 

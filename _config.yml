@@ -9,6 +9,7 @@ description: Becoming a better programmer through words to Heather.
 url: "https://www.heyheatheritsmeagain.com"
 twitter_username: dol_liars
 github_username:  dolliars
+timezone: America/Montreal
 
 # File management
 include: [".htaccess"]
